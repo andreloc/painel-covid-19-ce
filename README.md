@@ -39,7 +39,9 @@ Siga o conjunto de passos abaixo para instalar o ambiente:
 > [Instalação Anaconda](https://docs.anaconda.com/anaconda/install/)
 Observer que pode selecionar as intruções de acordo com seu sistema operacional. 
 
-![Instalacao](resources/install_anaconda.png)
+![Install Anaconda](resources/install_anaconda.gif)
+
+<!-- ![Instalacao](resources/install_anaconda.png) -->
 
 > Escolher a opção Python 3.7 e 64-Bit. 
 
