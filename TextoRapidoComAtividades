@@ -1,0 +1,33 @@
+- Propósito: 
+   - Criar um ambiente para estudos e análise da API do COVID-19-Ceará em Python. 
+
+- Componentes: 
+   python 
+   anaconda
+   plotly 
+
+- Instalações 
+  https://docs.anaconda.com/anaconda/install/
+
+
+- Situações: 
+ - Acessando pela API: atraso de processamento 
+ - Utiliza a data que o paciente teve o sintoma de covid-19. 
+
+ - O painel anterior (painel epdemiologico) 
+
+
+ - Quais são os hospitais que são específicos para covid? 
+
+
+O que é o anaconda: The World's Most Popular Python/R Data Science Platform
+ https://www.anaconda.com/distribution/
+
+Instalar Anaconda: 
+ https://docs.anaconda.com/anaconda/install/windows/
+
+- Instalar Jupyter: 
+ 
+- Baixar projeto: 
+
+- Instalar bibliotecas básicas
