@@ -130,3 +130,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+notebooks/extract_covid_data_integrasus_ce.ipynb
