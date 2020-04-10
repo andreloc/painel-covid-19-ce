@@ -37,7 +37,7 @@ Siga o conjunto de passos abaixo para instalar o ambiente:
  1. __Executar procedimentos de instalação descritos no link abaixo:__ 
 
 > [Instalação Anaconda](https://docs.anaconda.com/anaconda/install/)
-Observer que pode selecionar as intruções de acordo com seu sistema operacional. 
+Observe que pode selecionar as intruções de acordo com seu sistema operacional. 
 
 ![Install Anaconda](resources/install_anaconda.gif)
 
@@ -45,7 +45,7 @@ Observer que pode selecionar as intruções de acordo com seu sistema operaciona
 
 > Escolher a opção Python 3.7 e 64-Bit. 
 
- 2. __Após finalizar a instalação, iniciem o navegador do Anaconda (Anaconda Navigator).__
+ 2. __Após finalizar a instalação, vá no menu do seu Sistema Operacional e inicie o aplicativo _Anaconda Navigator_.__
 
  3. __Crie um novo ambiente de desenvolvimento do seu projeto. Utilizei covid-19-ce.__
 
@@ -64,4 +64,17 @@ Para texto utilizaremos a sintaxe de [Markdown](https://pt.wikipedia.org/wiki/Ma
 
 ## Configuração de dependências 
 
-TODO
+
+
+## Metas
+
+- [ ] Gerar arquivo facilmente explorável por qualquer área: CSV e Excel. 
+- [ ] Como está o achatamento da curva para nosso estado? 
+- [ ] Análise das contagens de casos testados, confirmados, negativados e óbitos por município e dia. 
+- [ ] Realizar estudos em conjunto com outros dados de outras fontes como IBGE, etc. 
+
+ ## Artigos Diversos Usados Como base e Inspiração
+
+ [Predicting the future of the Covid-19 pandemic with data](https://healthcare-in-europe.com/en/news/predicting-the-future-of-the-covid-19-pandemic-with-data.html#)
+
+ [Criando Dashboards com Plotly Dash](https://medium.com/datadummies/parte-01-criando-dashboards-com-plotly-dash-158211c9fa6a)
