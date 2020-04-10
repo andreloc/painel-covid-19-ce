@@ -78,3 +78,10 @@ Para texto utilizaremos a sintaxe de [Markdown](https://pt.wikipedia.org/wiki/Ma
  [Predicting the future of the Covid-19 pandemic with data](https://healthcare-in-europe.com/en/news/predicting-the-future-of-the-covid-19-pandemic-with-data.html#)
 
  [Criando Dashboards com Plotly Dash](https://medium.com/datadummies/parte-01-criando-dashboards-com-plotly-dash-158211c9fa6a)
+
+
+
+ ## SPOILER: 
+
+  Como montar uma visualização Geográfica de Casos Suspeitos VS Confirmados por Município
+  ![Create Environment](resources/qtd_susp_confir_por_municipios.png)

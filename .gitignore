@@ -131,3 +131,4 @@ dmypy.json
 .pyre/
 .DS_Store
 notebooks/extract_covid_data_integrasus_ce.ipynb
+Notas_Internas_Nao_Comitar
