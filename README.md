@@ -10,6 +10,11 @@ Fontes de Informação:
 
 - [Conjunto de APIs](https://github.com/EscolaDeSaudePublica/coronavirusAPI/issues/17)
 
+
+### Exemplo de Resultados
+![Install Anaconda](resources/crescimento_suspeito_confirmados_estado.gif)
+
+
 ## Organização do Tutorial 
 
  1) Instalação do Ambiente  
@@ -68,10 +73,12 @@ Para texto utilizaremos a sintaxe de [Markdown](https://pt.wikipedia.org/wiki/Ma
 
 ## Metas
 
-- [ ] Gerar arquivo facilmente explorável por qualquer área: CSV e Excel. 
+- [x] Gerar arquivo facilmente explorável por qualquer área: CSV e Excel. 
 - [ ] Como está o achatamento da curva para nosso estado? 
-- [ ] Análise das contagens de casos testados, confirmados, negativados e óbitos por município e dia. 
+- [x] Análise das contagens de casos testados, confirmados, negativados e óbitos por município organizado em série temporal
+- [x] Exibição de gráficos animados de exemplo
 - [ ] Realizar estudos em conjunto com outros dados de outras fontes como IBGE, etc. 
+- ... 
 
  ## Artigos Diversos Usados Como base e Inspiração
 
@@ -79,9 +86,3 @@ Para texto utilizaremos a sintaxe de [Markdown](https://pt.wikipedia.org/wiki/Ma
 
  [Criando Dashboards com Plotly Dash](https://medium.com/datadummies/parte-01-criando-dashboards-com-plotly-dash-158211c9fa6a)
 
-
-
- ## SPOILER: 
-
-  Como montar uma visualização Geográfica de Casos Suspeitos VS Confirmados por Município
-  ![Create Environment](resources/qtd_susp_confir_por_municipios.png)
